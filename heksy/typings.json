@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "dependencies": {
+    "bluebird": "registry:npm/bluebird#3.4.1+20160909132857"
+  },
+  "globalDependencies": {
+    "koa": "registry:dt/koa#2.0.0+20161025101853",
+    "koa-router": "registry:dt/koa-router#7.0.0+20160314083221",
+    "node": "registry:dt/node#6.0.0+20160720070758"
+  },
+  "globalDevDependencies": {
+    "bluebird": "registry:dt/bluebird#2.0.0+20160701023356"
+  },
+  "devDependencies": {}
+}
